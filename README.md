@@ -1,7 +1,7 @@
 # ft_printf
 
 <p align="center">
-    <img src="./printscreen.png"/>
+    <img src="./print.png"/>
 </p>
 
 
